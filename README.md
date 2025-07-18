@@ -2,6 +2,10 @@
 ## Persian License Plate Recognition System
 This project implements a complete pipeline for detecting vehicles, recognizing license plates, and reading Persian license plate numbers from video footage. It combines three custom-trained deep learning models for vehicle detection, license plate detection, and Persian character recognition.
 
+https://github.com/user-attachments/assets/dfa19290-e050-4639-97cf-ade2773abc01
+
+
+
 
 ## Key Features :
 
@@ -24,5 +28,4 @@ This project implements a complete pipeline for detecting vehicles, recognizing 
 
 
 
-https://github.com/user-attachments/assets/dfa19290-e050-4639-97cf-ade2773abc01
 
