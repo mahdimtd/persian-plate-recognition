@@ -22,3 +22,7 @@ This project implements a complete pipeline for detecting vehicles, recognizing 
 
 
 
+
+
+https://github.com/user-attachments/assets/dfa19290-e050-4639-97cf-ade2773abc01
+
