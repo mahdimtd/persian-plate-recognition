@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/dfa19290-e050-4639-97cf-ade2773abc01
 
 ✅​ License Plate Detection: Custom YOLOv8 model for license plate localization
 
-✅​ Persian OCR: CRNN model specialized for Persian license plate recognition
+✅​ Persian OCR: CRNN model specialized for Persian license plate recognition using Tensorflow 
 
 ✅​ Object Tracking: ByteTrack for consistent vehicle tracking across frames
 
